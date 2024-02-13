@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.ВыводВесаОбъемаВЗаказеКлиента" id="f85a9d3f-9b5e-4bdb-970b-75cb3692832d" configVersion="a50e91bf60ede74262cd130a49d555167583fd34"/>
+		<Metadata name="Document.ЗаказКлиента" id="5a4f97de-c179-4e36-9ee2-4f729287542f" configVersion="97dd81d695584b743cad16b3f8adec2284494009"/>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента" id="aac2e555-07bf-40fb-8b6a-6eee1d46ef25" configVersion="ece86b3e678fca4e79e56d026927cb243769da89"/>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="aac2e555-07bf-40fb-8b6a-6eee1d46ef25.0" configVersion="67b757ab23294e648fd25dc840978337b7c6e6e9"/>
+		<Metadata name="Language.Русский" id="611e0ff6-8202-4d01-8013-579b2a5b0de9" configVersion="dfa6bb4d1c2030b0e85d3c8fd23a79c3fb8d2fc2"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

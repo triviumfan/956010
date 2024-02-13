@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="5a4f97de-c179-4e36-9ee2-4f729287542f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗаказКлиента" category="Object">
+				<xr:TypeId>2bb48e1b-9425-4f17-a310-fd872dd9f457</xr:TypeId>
+				<xr:ValueId>a1f35c8d-2961-44fb-828e-c026ee187a87</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗаказКлиента" category="Ref">
+				<xr:TypeId>7cf6090c-7060-4ea3-a3c8-f754ff88ccf8</xr:TypeId>
+				<xr:ValueId>b7d27668-1314-42ef-9c26-1dc96077f3ba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗаказКлиента" category="Selection">
+				<xr:TypeId>46f6d317-25d3-4ff0-86b8-f9863ed21abd</xr:TypeId>
+				<xr:ValueId>2dc8b355-bf84-4ad1-a08a-2b6a26301241</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗаказКлиента" category="List">
+				<xr:TypeId>1ce3767b-2542-4939-9103-5c2dfec44689</xr:TypeId>
+				<xr:ValueId>e6551ad9-8971-4a7d-a857-17b7be2341c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗаказКлиента" category="Manager">
+				<xr:TypeId>62b33d95-8f31-4be0-86c3-6248b28ce293</xr:TypeId>
+				<xr:ValueId>cff5936a-079f-4839-bcd8-cd9d53b86725</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаказКлиента</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1ceef4a2-6b58-45a0-8a75-bb6e3004590f</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>
